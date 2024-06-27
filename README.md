@@ -4,7 +4,7 @@
 
 
 ## Description
-Simple website for generating QR code.
+Simple website for generating QR codes.
 
 ## How to run the project locally
 
